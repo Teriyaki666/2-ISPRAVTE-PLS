@@ -7,4 +7,4 @@
 - Циклы  
 ## Примеры из работы
 Вложенность
-![]
+![](https://github.com/Teriyaki666/2-ISPRAVTE-PLS/blob/d9c975dd8a32e8e96f0803ab1acf6b59c29d791e/76/IMG/1_1.JPG)
